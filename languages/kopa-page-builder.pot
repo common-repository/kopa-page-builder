@@ -1,0 +1,145 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Kopa Page Builder\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-19 16:26+0700\n"
+"PO-Revision-Date: 2015-05-17 23:17+0700\n"
+"Last-Translator: thanh4890 <thanh4890@gmail.com>\n"
+"Language-Team: Kopasoft\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.10\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/class-kpb-admin-assets.php:68
+msgid "Media center"
+msgstr ""
+
+#: inc/class-kpb-admin-assets.php:69
+msgid "Choose image"
+msgstr ""
+
+#: inc/class-kpb-admin-assets.php:70 inc/class-kpb-widget.php:376
+msgid "Loading..."
+msgstr ""
+
+#: inc/class-kpb-admin-assets.php:71 inc/class-kpb-col.php:115
+#: inc/class-kpb-layout.php:386 inc/class-kpb-row.php:66
+#: inc/class-kpb-widget.php:388 kopa-page-builder.php:125
+msgid "Save"
+msgstr ""
+
+#: inc/class-kpb-admin-assets.php:72
+msgid "Saving..."
+msgstr ""
+
+#: inc/class-kpb-admin-assets.php:73
+msgid "Hide visual layout"
+msgstr ""
+
+#: inc/class-kpb-admin-assets.php:74 kopa-page-builder.php:126
+msgid "Show visual layout"
+msgstr ""
+
+#: inc/class-kpb-admin-assets.php:75
+msgid "Are you sure to remove this widget ?"
+msgstr ""
+
+#: inc/class-kpb-ajax.php:38
+msgid "Loading.."
+msgstr ""
+
+#: inc/class-kpb-col.php:112
+msgid "Edit Column"
+msgstr ""
+
+#: inc/class-kpb-col.php:114 inc/class-kpb-layout.php:385
+#: inc/class-kpb-row.php:65 inc/class-kpb-widget.php:104
+#: inc/class-kpb-widget.php:219 inc/class-kpb-widget.php:371
+msgid "Close"
+msgstr ""
+
+#: inc/class-kpb-editor.php:38 kopa-page-builder.php:96
+msgid "Page Builder"
+msgstr ""
+
+#: inc/class-kpb-field.php:14
+msgid "I'm abstract field. Override me, please!"
+msgstr ""
+
+#: inc/class-kpb-layout.php:35
+msgid "-- Disable --"
+msgstr ""
+
+#: inc/class-kpb-layout.php:111
+msgid "Edit this row"
+msgstr ""
+
+#: inc/class-kpb-layout.php:154 inc/class-kpb-layout.php:157
+#: inc/class-kpb-layout.php:219 inc/class-kpb-layout.php:222
+msgid "Add new widget"
+msgstr ""
+
+#: inc/class-kpb-layout.php:155 inc/class-kpb-layout.php:220
+msgid "Edit this column"
+msgstr ""
+
+#: inc/class-kpb-layout.php:180 inc/class-kpb-layout.php:243
+#: inc/class-kpb-widget.php:595
+msgid "Edit"
+msgstr ""
+
+#: inc/class-kpb-layout.php:181 inc/class-kpb-layout.php:244
+#: inc/class-kpb-widget.php:596
+msgid "Delete"
+msgstr ""
+
+#: inc/class-kpb-row.php:64
+msgid "Edit Row"
+msgstr ""
+
+#: inc/class-kpb-widget.php:103 inc/class-kpb-widget.php:218
+msgid "Avaiable Widgets"
+msgstr ""
+
+#: inc/class-kpb-widget.php:172 inc/class-kpb-widget.php:251
+msgid "Add"
+msgstr ""
+
+#: inc/class-kpb-widget.php:279
+msgid "Type of Widget"
+msgstr ""
+
+#: inc/class-kpb-widget.php:370
+msgid "Widget Name"
+msgstr ""
+
+#: inc/class-kpb-widget.php:451
+msgid "Widget"
+msgstr ""
+
+#: inc/fields/class-kpb-field-icon.php:9
+msgid "-- select icon --"
+msgstr ""
+
+#: inc/fields/class-kpb-field-image.php:18
+msgid "Upload"
+msgstr ""
+
+#: inc/fields/class-kpb-field-image.php:19
+msgid "Reset"
+msgstr ""
+
+#: kopa-page-builder.php:127
+msgid "Customize"
+msgstr ""
